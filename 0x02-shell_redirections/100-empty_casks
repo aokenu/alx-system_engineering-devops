@@ -1,2 +1,2 @@
-#!/bin/bashi
+#!/bin/bash
 find ./ -a -type f -empty -type d -empty
